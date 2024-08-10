@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٤-٠٨-٠٧T١٤:٠٧:٠٧ EET" name="Default suite" finished-at="٢٠٢٤-٠٨-٠٧T١٤:٠٧:٠٩ EET" duration-ms="1447">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٤-٠٨-٠٧T١٤:٠٧:٠٧ EET" name="Default test" finished-at="٢٠٢٤-٠٨-٠٧T١٤:٠٧:٠٩ EET" duration-ms="1447">
+      <class name="VerifiyTotalPurchase">
+        <test-method signature="ValidateSumPurches()[pri:0, instance:VerifiyTotalPurchase@63fbfaeb]" started-at="٢٠٢٤-٠٨-٠٧T١٤:٠٧:٠٧ EET" name="ValidateSumPurches" finished-at="٢٠٢٤-٠٨-٠٧T١٤:٠٧:٠٩ EET" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSumPurches -->
+      </class> <!-- VerifiyTotalPurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
