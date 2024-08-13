@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٣ EET" name="Default suite" finished-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٩ EET" duration-ms="6041">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٣ EET" name="Default test" finished-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٩ EET" duration-ms="6041">
+      <class name="TestSuite">
+        <test-method is-config="true" signature="TC_Login_Func_00()[pri:0, instance:TestSuite@66fdec9]" started-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٣ EET" name="TC_Login_Func_00" finished-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٦ EET" duration-ms="3190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_Func_00 -->
+        <test-method signature="TC_CreateProduct_Func_01()[pri:0, instance:TestSuite@66fdec9]" started-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٦ EET" name="TC_CreateProduct_Func_01" finished-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٧ EET" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_CreateProduct_Func_01 -->
+        <test-method signature="TC_CreateOrder_Func_02()[pri:0, instance:TestSuite@66fdec9]" started-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٧ EET" name="TC_CreateOrder_Func_02" finished-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٨ EET" depends-on-methods="TestSuite.TC_CreateProduct_Func_01" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_CreateOrder_Func_02 -->
+        <test-method signature="TC_DeleteOrder_Func_03()[pri:0, instance:TestSuite@66fdec9]" started-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٨ EET" name="TC_DeleteOrder_Func_03" finished-at="٢٠٢٤-٠٨-١٣T٢٣:١٦:٢٩ EET" depends-on-methods="TestSuite.TC_CreateOrder_Func_02" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_DeleteOrder_Func_03 -->
+      </class> <!-- TestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

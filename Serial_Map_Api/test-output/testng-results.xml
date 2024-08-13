@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٣ EET" name="Default suite" finished-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٧ EET" duration-ms="4076">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٣ EET" name="Default test" finished-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٧ EET" duration-ms="4076">
+      <class name="TestApi">
+        <test-method signature="TC_API_00()[pri:0, instance:TestApi@6127a7e]" started-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٣ EET" name="TC_API_00" finished-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٦ EET" duration-ms="3462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_API_00 -->
+        <test-method signature="TC_API_02()[pri:0, instance:TestApi@6127a7e]" started-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٦ EET" name="TC_API_02" finished-at="٢٠٢٤-٠٨-١٣T٢٠:١٣:٥٧ EET" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_API_02 -->
+      </class> <!-- TestApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
